@@ -1,12 +1,15 @@
-# React + Vite
+# Welcome to Symmtech
+### Make sure you Download Node.js before the interview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Test that it works by running running
+```sh
+npm -v
+```
+or
+```sh
+node -v
+```
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Interview
+You will clone this repo and go to App.jsx to code from there
+If you run into problems we will use Coderpad
